@@ -8,3 +8,6 @@ Thumbs.db
 
 # Compiled C++ files
 *.out
+
+#Compiled Java files
+*.class
