@@ -1,1 +1,6 @@
 sites
+
+https://www.geeksforgeeks.org/minimum-rotations-that-have-maximum-elements-with-value-at-most-its-index/
+
+https://www.geeksforgeeks.org/java-program-to-count-of-array-elements-greater-than-all-elements-on-its-left-and-at-least-k-elements-on-its-right/
+

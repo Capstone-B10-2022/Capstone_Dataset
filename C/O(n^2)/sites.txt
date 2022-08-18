@@ -1,2 +1,9 @@
 https://www.geeksforgeeks.org/find-a-rotation-with-maximum-hamming-distance/
 
+https://www.geeksforgeeks.org/minimum-flips-to-make-matrix-identical-for-all-rotations/
+
+https://www.geeksforgeeks.org/minimum-rotations-that-have-maximum-elements-with-value-at-most-its-index/
+
+https://www.geeksforgeeks.org/java-program-to-print-all-possible-rotations-of-a-given-array/
+
+https://www.geeksforgeeks.org/python3-program-to-print-all-possible-rotations-of-a-given-array/

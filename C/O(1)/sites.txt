@@ -1,0 +1,7 @@
+https://www.geeksforgeeks.org/java-program-to-find-mth-element-after-k-right-rotations-of-an-array/
+
+https://www.geeksforgeeks.org/python3-program-to-find-mth-element-after-k-right-rotations-of-an-array/
+
+https://www.geeksforgeeks.org/java-program-to-find-the-mth-element-of-the-array-after-k-left-rotations/
+
+https://www.geeksforgeeks.org/python3-program-to-find-the-mth-element-of-the-array-after-k-left-rotations/
