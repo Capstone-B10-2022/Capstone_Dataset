@@ -1,5 +1,0 @@
-https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
-
-https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
-
-https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/
