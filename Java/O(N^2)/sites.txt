@@ -1,1 +1,5 @@
 sites
+
+https://www.geeksforgeeks.org/java-program-to-rotate-matrix-by-45-degrees/
+
+https://www.geeksforgeeks.org/minimize-number-of-rotations-on-array-a-such-that-it-becomes-equal-to-b/
