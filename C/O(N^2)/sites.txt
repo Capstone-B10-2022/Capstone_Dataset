@@ -14,3 +14,7 @@ https://www.geeksforgeeks.org/rearrange-positive-negative-numbers-using-inbuilt-
 
 https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/
 
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/
+
+https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/
+
