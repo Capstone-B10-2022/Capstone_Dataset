@@ -18,3 +18,13 @@ https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/
 
 https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/
 
+https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/
+
+https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/
+
+https://www.geeksforgeeks.org/find-elements-array-least-two-greater-elements/
+
+https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
+
+https://www.geeksforgeeks.org/k-smallest-elements-order-using-o1-extra-space/
+

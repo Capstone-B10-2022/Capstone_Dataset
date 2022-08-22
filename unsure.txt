@@ -8,3 +8,8 @@ https://www.geeksforgeeks.org/java-program-to-find-range-sum-queries-for-anticlo
 
 https://www.geeksforgeeks.org/python3-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/
 
+https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
+
+https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/
+
+

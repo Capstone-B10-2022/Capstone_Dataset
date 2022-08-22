@@ -18,5 +18,31 @@ https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-f
 
 https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
 
+https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/
+
+https://www.geeksforgeeks.org/kth-smallestlargest-element-using-stl/
+
+https://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/
+
+https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/
+
+https://www.geeksforgeeks.org/find-elements-array-least-two-greater-elements/
+
+https://www.geeksforgeeks.org/program-for-mean-and-median-of-an-unsorted-array/
+
+https://www.geeksforgeeks.org/median-of-stream-of-running-integers-using-stl/
+
+https://www.geeksforgeeks.org/minimum-product-k-integers-array-positive-integers/
+
+https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
+
+https://www.geeksforgeeks.org/k-th-smallest-absolute-difference-two-elements-array/
+
+https://www.geeksforgeeks.org/find-second-largest-element-array/
+
+https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
+
+https://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-element-in-an-array/
+
 
 
