@@ -1,0 +1,56 @@
+// Source: https://www.geeksforgeeks.org/rearrange-array-arrj-becomes-arri-j/
+
+// A simple JAVA program to rearrange
+// contents of arr[] such that arr[j]
+// becomes j if arr[i] is j
+
+class ON_58 {
+
+	// A simple method to rearrange
+	// 'arr[0..n-1]' so that 'arr[j]'
+	// becomes 'i' if 'arr[i]' is 'j'
+	static void rearrange(int arr[], int n)
+	{
+		for (int i = 0; i < n; i++) {
+
+			// retrieving old value and
+			// storing with the new one
+			arr[arr[i] % n] += i * n;
+		}
+
+		for (int i = 0; i < n; i++) {
+
+			// retrieving new value
+			arr[i] /= n;
+		}
+	}
+
+	// A utility function to print
+	// contents of arr[0..n-1]
+	static void printArray(int arr[], int n)
+	{
+		for (int i = 0; i < n; i++) {
+			System.out.print(arr[i] + " ");
+		}
+
+		System.out.println();
+	}
+
+	// Driver code
+	public static void main(String[] args)
+	{
+		int arr[] = { 2, 0, 1, 4, 5, 3 };
+		int n = arr.length;
+
+		System.out.println("Given array is : ");
+		printArray(arr, n);
+
+		rearrange(arr, n);
+
+		System.out.println("Modified array is :");
+		printArray(arr, n);
+	}
+}
+
+// This code has been contributed by 29AjayKumar
+

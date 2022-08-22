@@ -1,2 +1,10 @@
 https://www.geeksforgeeks.org/find-element-given-index-number-rotations/
 
+https://www.geeksforgeeks.org/java-program-to-find-array-sum-using-bitwise-or-after-splitting-given-array-in-two-halves-after-k-circular-shifts/
+
+https://www.geeksforgeeks.org/python3-program-to-find-array-sum-using-bitwise-or-after-splitting-given-array-in-two-halves-after-k-circular-shifts/
+
+https://www.geeksforgeeks.org/java-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/
+
+https://www.geeksforgeeks.org/python3-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/
+

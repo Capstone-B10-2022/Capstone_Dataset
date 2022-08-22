@@ -7,3 +7,14 @@ https://www.geeksforgeeks.org/minimum-rotations-that-have-maximum-elements-with-
 https://www.geeksforgeeks.org/java-program-to-print-all-possible-rotations-of-a-given-array/
 
 https://www.geeksforgeeks.org/python3-program-to-print-all-possible-rotations-of-a-given-array/
+
+https://www.geeksforgeeks.org/rearrange-array-arri/
+
+https://www.geeksforgeeks.org/rearrange-positive-negative-numbers-using-inbuilt-sort-function/
+
+https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/
+
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/
+
+https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/
+

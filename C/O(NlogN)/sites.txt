@@ -4,3 +4,19 @@ https://www.geeksforgeeks.org/minimum-rotations-that-have-maximum-elements-with-
 
 https://www.geeksforgeeks.org/java-program-to-count-of-array-elements-greater-than-all-elements-on-its-left-and-at-least-k-elements-on-its-right/
 
+https://www.geeksforgeeks.org/rearrange-array-arri-arrj-even-arri/
+
+https://www.geeksforgeeks.org/rearrange-array-such-that-even-positioned-are-greater-than-odd/
+
+https://www.geeksforgeeks.org/rearrange-array-order-smallest-largest-2nd-smallest-2nd-largest/
+
+https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/
+
+https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/
+
+https://www.geeksforgeeks.org/given-an-array-of-numbers-arrange-the-numbers-to-form-the-biggest-number/
+
+https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
+
+
+
