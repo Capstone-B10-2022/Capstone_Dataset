@@ -1,1 +1,3 @@
 https://www.geeksforgeeks.org/find-elements-array-least-two-greater-elements/
+
+https://www.geeksforgeeks.org/rearrange-array-such-that-even-positioned-are-greater-than-odd/
