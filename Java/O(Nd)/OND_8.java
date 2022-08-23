@@ -6,7 +6,7 @@ appears x times in a Query subarray */
 import java.util.HashMap;
 import java.util.Map;
 
-class GFG
+class OND_8
 {
 
 
