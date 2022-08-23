@@ -1,21 +1,19 @@
-https://www.geeksforgeeks.org/find-element-given-index-number-rotations/
+https://www.geeksforgeeks.org/find-element-given-index-number-rotations/          O(R)    (Worst case R<=N most probably)   (Worst case O(N) maybe)
 
-https://www.geeksforgeeks.org/java-program-to-find-array-sum-using-bitwise-or-after-splitting-given-array-in-two-halves-after-k-circular-shifts/
+https://www.geeksforgeeks.org/java-program-to-find-array-sum-using-bitwise-or-after-splitting-given-array-in-two-halves-after-k-circular-shifts/  O(N+QlogN)  (Ignore)
 
-https://www.geeksforgeeks.org/python3-program-to-find-array-sum-using-bitwise-or-after-splitting-given-array-in-two-halves-after-k-circular-shifts/
+https://www.geeksforgeeks.org/python3-program-to-find-array-sum-using-bitwise-or-after-splitting-given-array-in-two-halves-after-k-circular-shifts/ O(N+QlogN) (Ignore)
 
-https://www.geeksforgeeks.org/java-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/
+https://www.geeksforgeeks.org/java-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/       O(Q) Queries   (Worst case O(N) maybe)  O(N)
 
-https://www.geeksforgeeks.org/python3-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/
+https://www.geeksforgeeks.org/python3-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/    O(Q) Queries   (Worst case O(N) maybe)  O(N)
 
-https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
+https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/         O(N^2 * logK)       (Ignore)
 
-https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/
+https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/        O(Nd)
 
-https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/
+https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/     O(k*sqrt(N))  (Ignore)
 
-https://www.geeksforgeeks.org/gcds-of-a-given-index-ranges-in-an-array/
+https://www.geeksforgeeks.org/gcds-of-a-given-index-ranges-in-an-array/           O((logN)^2)   (Ignore)
 
-https://www.geeksforgeeks.org/number-indexes-equal-elements-given-range/
-
-
+https://www.geeksforgeeks.org/number-indexes-equal-elements-given-range/          O(R-L)        (Maybe O(N) or O(1))    (Ignore)
