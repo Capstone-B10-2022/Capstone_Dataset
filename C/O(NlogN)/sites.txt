@@ -44,5 +44,16 @@ https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/
 
 https://www.geeksforgeeks.org/to-find-smallest-and-second-smallest-element-in-an-array/
 
+New
+----
+
+https://www.geeksforgeeks.org/sparse-table/
+
+https://www.geeksforgeeks.org/range-sum-query-using-sparse-table/
+
+https://www.geeksforgeeks.org/queries-gcd-numbers-array-except-elements-given-range/
+
+https://www.geeksforgeeks.org/queries-counts-array-elements-values-given-range/
+
 
 

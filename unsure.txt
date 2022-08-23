@@ -12,4 +12,10 @@ https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/
 
 https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/
 
+https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-1-introduction/
+
+https://www.geeksforgeeks.org/gcds-of-a-given-index-ranges-in-an-array/
+
+https://www.geeksforgeeks.org/number-indexes-equal-elements-given-range/
+
 

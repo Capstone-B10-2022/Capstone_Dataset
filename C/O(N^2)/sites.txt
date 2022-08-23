@@ -28,3 +28,12 @@ https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/
 
 https://www.geeksforgeeks.org/k-smallest-elements-order-using-o1-extra-space/
 
+New
+
+----
+
+https://www.geeksforgeeks.org/count-elements-which-divide-all-numbers-in-range-l-r/
+
+
+https://www.geeksforgeeks.org/array-range-queries-range-queries/
+

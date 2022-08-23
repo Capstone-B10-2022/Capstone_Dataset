@@ -6,3 +6,10 @@ https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array
 
 https://www.geeksforgeeks.org/find-the-first-missing-number/
 
+https://www.geeksforgeeks.org/range-queries-for-frequencies-of-array-elements/
+
+New
+
+----
+
+https://www.geeksforgeeks.org/array-range-queries-range-queries/
