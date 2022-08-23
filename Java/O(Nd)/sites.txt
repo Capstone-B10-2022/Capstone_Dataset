@@ -1,1 +1,3 @@
 https://www.geeksforgeeks.org/rearrange-positive-and-negative-numbers/
+
+https://www.geeksforgeeks.org/find-k-pairs-smallest-sums-two-arrays/
