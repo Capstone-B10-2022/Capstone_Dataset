@@ -7,3 +7,5 @@ https://www.geeksforgeeks.org/rearrange-array-arri/
 https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/
 
 https://www.geeksforgeeks.org/python3-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/
+
+https://www.geeksforgeeks.org/java-program-to-find-range-sum-queries-for-anticlockwise-rotations-of-array-by-k-indices/ 
