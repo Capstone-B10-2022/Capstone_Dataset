@@ -3,7 +3,7 @@
  
 import java.util.*;
 import java.lang.*;
-class ONK_1 {
+class OND_2 {
     public static void splitArr(int arr[], int n, int k)
     {
         for (int i = 0; i < k; i++) {

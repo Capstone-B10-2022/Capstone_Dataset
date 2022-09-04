@@ -1,7 +1,7 @@
 // Source: https://www.geeksforgeeks.org/difference-array-range-update-query-o1/
 
 // Java code to demonstrate Difference Array
-class GFG {
+class ON_90 {
 	
 	// Creates a diff array D[] for A[] and returns
 	// it after filling initial values.

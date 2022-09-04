@@ -13,3 +13,16 @@ New
 ----
 
 https://www.geeksforgeeks.org/array-range-queries-range-queries/
+
+https://www.geeksforgeeks.org/search-insert-and-delete-in-a-sorted-array/
+
+https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
+
+https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
+
+https://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/
+
+https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/
+
+https://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/
+

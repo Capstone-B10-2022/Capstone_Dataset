@@ -3,7 +3,7 @@
 // Java code to find largest three elements
 // in an array
  
-class PrintLargest {
+class ON_72 {
     /* Function to print three largest elements */
     static void print3largest(int arr[], int arr_size)
     {

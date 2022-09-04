@@ -5,7 +5,7 @@
 // maximum.
 import java.lang.Math;
 
-class GFG {
+class ON_88 {
 	
 	private static final int MAX = 2147483647;
 	static int[][] one = new int[100001][32];

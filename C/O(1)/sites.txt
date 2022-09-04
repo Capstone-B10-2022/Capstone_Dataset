@@ -5,3 +5,11 @@ https://www.geeksforgeeks.org/python3-program-to-find-mth-element-after-k-right-
 https://www.geeksforgeeks.org/java-program-to-find-the-mth-element-of-the-array-after-k-left-rotations/
 
 https://www.geeksforgeeks.org/python3-program-to-find-the-mth-element-of-the-array-after-k-left-rotations/
+
+https://www.geeksforgeeks.org/search-insert-and-delete-in-an-unsorted-array/
+
+https://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/
+
+https://www.geeksforgeeks.org/implement-two-stacks-in-an-array/
+
+https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/

@@ -3,7 +3,7 @@
 // Java program to rearrange the elements
 // in the array such that even positioned are
 // greater than odd positioned elements
-class GFG
+class ON_52
 {
   public static void rearrange(int[] arr, int n)
   {

@@ -5,7 +5,7 @@ import java.io.*;
 import java.lang.*;
 import java.util.*;
  
-class LinearSearch {
+class ON_18 {
     // Returns count of rotations for an
     // array which is first sorted in
     // ascending order, then rotated

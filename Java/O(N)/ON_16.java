@@ -2,7 +2,7 @@
 // maximum sum of i*arr[i]
 import java.io.*;
  
-class GFG {
+class ON_16 {
      
     static int maxSum(int arr[], int n)
     {
