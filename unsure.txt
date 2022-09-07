@@ -61,3 +61,20 @@ https://www.geeksforgeeks.org/different-operation-matrices/
 
 https://www.geeksforgeeks.org/find-relative-complement-two-sorted-arrays/
 
+Nikhil :- 
+
+https://www.geeksforgeeks.org/counting-inversions/  NlogN (Python Functions Import)
+
+https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/  NlogN (Python Functions Import)
+
+https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/ (NlogN or N^2 depending on quick/merge sort)
+
+https://www.geeksforgeeks.org/two-pointers-technique/ (Method 1, C Syntax err)
+
+https://www.geeksforgeeks.org/rotate-matrix-90-degree-without-using-extra-space-set-2/ (R*C)
+
+https://www.geeksforgeeks.org/rotate-matrix-180-degree/  (R*C)
+
+https://www.geeksforgeeks.org/maximum-path-sum-matrix/  (N*M == O(Nd))
+
+https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/   (O(n*(2^n)))
