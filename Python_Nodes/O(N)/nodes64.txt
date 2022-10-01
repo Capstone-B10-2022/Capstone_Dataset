@@ -1,0 +1,29 @@
+1--Module,11--Expr
+11--Expr,111--
+Source: https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
+
+1--Module,12--Assign
+12--Assign,121--n
+121--n,1211--Store
+12--Assign,122--8
+1--Module,13--For
+13--For,131--i
+131--i,1311--Store
+13--For,132--Call
+132--Call,1321--range
+1321--range,13211--Load
+132--Call,1322--n
+1322--n,13221--Load
+13--For,133--Expr
+133--Expr,1331--Call
+1331--Call,13311--print
+13311--print,133111--Load
+1331--Call,13312--Hello World !!!
+13--For,134--Assign
+134--Assign,1341--i
+1341--i,13411--Store
+134--Assign,1342--BinOp
+1342--BinOp,13421--i
+13421--i,134211--Load
+1342--BinOp,13422--Add
+1342--BinOp,13423--1
