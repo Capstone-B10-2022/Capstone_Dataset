@@ -1,6 +1,6 @@
-'''
-Source: https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
-'''
+
+#Source: https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
+
 
  
 n = 8
