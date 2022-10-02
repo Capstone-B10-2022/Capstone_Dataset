@@ -1,9 +1,5 @@
 def rotateArray(array):
-    '''
-    array[-1:] taking last element
-    array[:-1] taking elements from start to last second element
-    array[:] changing array from starting to end
-    '''
+    
     array[:] = array[-1:]+array[:-1]
  
  

@@ -24,9 +24,7 @@ def RearrangePosNeg(arr, n):
 		if (key > 0):
 			continue
 
-		''' if current element is negative,
-		shift positive elements of arr[0..i-1],
-		to one position to their right '''
+		
 		j = i - 1
 		while (j >= 0 and arr[j] > 0):
 			arr[j + 1] = arr[j]

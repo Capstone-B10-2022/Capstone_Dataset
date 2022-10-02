@@ -1,4 +1,4 @@
-'''Python program to find maximum value of Sum(i*arr[i])'''
+
  
 # returns max possible value of Sum(i*arr[i])
  

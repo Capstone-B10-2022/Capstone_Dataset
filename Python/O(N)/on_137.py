@@ -1,6 +1,6 @@
 # Source: https://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/
 
-'''Python3 Program to check for majority element in a sorted array'''
+
 
 def isMajority(arr, n, x):
 	# get last index according to n (even or odd) */

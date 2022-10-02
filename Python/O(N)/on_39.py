@@ -1,30 +1,30 @@
 # Python3 implementation of the approach
  
-''' Link list node '''
+
 class Node:
  
     def __init__(self, data):
         self.data = data
         self.next = None
  
-''' A utility function to push a node '''
+
 def push(head_ref, new_data):
    
-    ''' allocate node '''
+    
     new_node = Node(new_data)
  
-    ''' put in the data '''
+    
     new_node.data = new_data
  
-    ''' link the old list off the new node '''
+    
     new_node.next = (head_ref)
  
-    ''' move the head to point to the new node '''
+    
     (head_ref) = new_node
  
     return head_ref
  
-''' A utility function to print linked list '''
+
 def printList(node):
     while (node != None):
         print(node.data, end=' -> ')
@@ -97,8 +97,7 @@ def rightRotate(head, k):
 # Driver code
 if __name__ == '__main__':
  
-    ''' The constructed linked list is:
-    1.2.3.4.5 '''
+    
     head = None
     head = push(head, 5)
     head = push(head, 4)

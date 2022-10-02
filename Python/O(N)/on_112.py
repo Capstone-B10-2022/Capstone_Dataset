@@ -1,7 +1,6 @@
 # Source: https://www.geeksforgeeks.org/count-pairs-difference-equal-k/
 
-''' An efficient program to count pairs with difference k when the range
-numbers is small '''
+
 
 MAX = 100000;
 def countPairsWithDiffK(arr, n, k):
