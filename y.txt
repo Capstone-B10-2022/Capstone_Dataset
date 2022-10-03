@@ -1,4 +1,6 @@
 O(1) nodes0 C
+O(2n) nodes0 C
+O(2n) nodes1 C
 O(logN) nodes0 C
 O(logN) nodes1 C
 O(logN) nodes2 C
@@ -117,6 +119,9 @@ O(NlogN) nodes9 C
 O(sqrt(N)) nodes0 C
 O(1) nodes0 Python
 O(1) nodes1 Python
+O(1) nodes2 Python
+O(2n) nodes0 Python
+O(2n) nodes1 Python
 O(logN) nodes0 Python
 O(logN) nodes1 Python
 O(logN) nodes10 Python
@@ -353,6 +358,7 @@ O(N2) nodes7 Python
 O(N2) nodes70 Python
 O(N2) nodes71 Python
 O(N2) nodes72 Python
+O(N2) nodes73 Python
 O(N2) nodes8 Python
 O(N2) nodes9 Python
 O(N3) nodes0 Python
@@ -418,8 +424,12 @@ O(NlogN) nodes7 Python
 O(NlogN) nodes8 Python
 O(NlogN) nodes9 Python
 O(sqrt(N)) nodes0 Python
+O(sqrt(N)) nodes1 Python
 O(1) nodes0 Java
 O(1) nodes1 Java
+O(2n) nodes0 Java
+O(2n) nodes1 Java
+O(2n) nodes2 Java
 O(logN) nodes0 Java
 O(logN) nodes1 Java
 O(logN) nodes2 Java
