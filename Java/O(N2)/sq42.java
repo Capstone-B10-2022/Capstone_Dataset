@@ -33,7 +33,7 @@ class sq42 {
 	// Driver code
 	public static void main(String[] args)
 	{
-		EquilibriumIndex equi = new EquilibriumIndex();
+		sq42 equi = new sq42();
 		int arr[] = { -7, 1, 5, 2, -4, 3, 0 };
 		int arr_size = arr.length;
 		System.out.println(equi.equilibrium(arr, arr_size));

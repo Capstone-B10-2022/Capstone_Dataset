@@ -64,7 +64,7 @@ class Main
 						619, 460, 479 };
 		int n = a.length;
 		// Output will be 5
-		System.out.println(new GfG().minSwaps(a, n));
+		System.out.println(new sq64().minSwaps(a, n));
 	}
 }
 // This code is contributed by Satvik Nema

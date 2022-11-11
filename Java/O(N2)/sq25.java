@@ -22,7 +22,7 @@ class sq25 {
 
 	public static void main(String[] args)
 	{
-		MinimumDistance min = new MinimumDistance();
+		sq25 min = new sq25();
 		int arr[] = { 3, 5, 4, 2, 6, 5, 6, 6, 5, 4, 8, 3 };
 		int n = arr.length;
 		int x = 0;

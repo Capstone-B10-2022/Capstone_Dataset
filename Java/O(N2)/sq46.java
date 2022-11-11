@@ -21,8 +21,7 @@ class sq46{
 			{
 				if (s.contains(curr_sum - A[j]))
 				{
-					System.out.printf("Triplet is %d,
-										%d, %d", A[i],
+					System.out.printf("Triplet is %d, %d, %d", A[i],
 									A[j], curr_sum - A[j]);
 					return true;
 				}

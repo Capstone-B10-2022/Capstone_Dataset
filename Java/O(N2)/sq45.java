@@ -78,7 +78,7 @@ class sq45 {
 	// Driver program to test above functions
 	public static void main(String[] args)
 	{
-		FindTriplet triplet = new FindTriplet();
+		sq45 triplet = new sq45();
 		int A[] = { 1, 4, 45, 6, 10, 8 };
 		int sum = 22;
 		int arr_size = A.length;

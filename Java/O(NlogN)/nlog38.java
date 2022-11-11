@@ -55,7 +55,7 @@ class MinSwaps
 	public static void main(String[] args)
 	{
 		int []a = {1, 5, 4, 3, 2};
-		GfG g = new GfG();
+		nlog38 g = new nlog38();
 		System.out.println(g.minSwaps(a));
 	}
 }

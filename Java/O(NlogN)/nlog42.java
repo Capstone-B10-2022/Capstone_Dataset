@@ -1,5 +1,6 @@
 //https://www.geeksforgeeks.org/count-pairs-difference-equal-k/
 import java.io.*;
+import java.util.*;
 
 class GFG {
 	static int BS(int[] arr, int X, int low) {

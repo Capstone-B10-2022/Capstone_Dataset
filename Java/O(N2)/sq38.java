@@ -3,7 +3,7 @@
 //https://www.geeksforgeeks.org/print-distinct-elements-given-integer-array/
 import java.io.*;
 
-class GFG {
+class sq38 {
 
 	static void printDistinct(int arr[], int n)
 	{

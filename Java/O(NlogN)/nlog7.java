@@ -96,7 +96,7 @@ class nlog7 {
 	{
 		int arr[] = { 12, 3, 5, 7, 19 };
 		int N = arr.length, K = 2;
-		GFG gfg = new GFG();
+		nlog7 gfg = new nlog7();
 
 		// Function call
 		System.out.print("K'th smallest element is "

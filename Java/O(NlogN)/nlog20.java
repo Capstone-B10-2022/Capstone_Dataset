@@ -30,7 +30,7 @@ class nlog20 {
 	// Driver code
 	public static void main(String[] args)
 	{
-		GFG obj = new GFG();
+		nlog20 obj = new nlog20();
 		int[] arr = { 12, 45, 1, -1, 45, 54, 23, 5, 0, -10 };
 		obj.find3largest(arr);
 	}

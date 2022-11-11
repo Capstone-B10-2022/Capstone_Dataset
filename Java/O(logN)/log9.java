@@ -52,7 +52,7 @@ class log9
 	// Driver program to test the above function
 	public static void main(String[] args)
 	{
-		GFG small = new GFG();
+		log9 small = new log9();
 		int arr[] = {0, 1, 2, 3, 4, 5, 7};
 		int n = arr.length;
 		

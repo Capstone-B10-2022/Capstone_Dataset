@@ -21,7 +21,7 @@ class log8
 	// Driver program to test the above function
 	public static void main(String[] args)
 	{
-		SmallestMissing small = new SmallestMissing();
+		log8 small = new log8();
 		int arr[] = {0, 1, 2, 3, 4, 5, 6, 7, 10};
 		int n = arr.length;
 		System.out.println("First Missing element is : "

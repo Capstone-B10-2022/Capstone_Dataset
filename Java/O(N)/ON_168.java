@@ -20,7 +20,7 @@ class ON_168 {
     Node root;
   
     // Constructor
-    BinarySearchTree() { root = null; }
+    ON_168() { root = null; }
   
     // This method mainly calls deleteRec()
     void deleteKey(int key) { root = deleteRec(root, key); }

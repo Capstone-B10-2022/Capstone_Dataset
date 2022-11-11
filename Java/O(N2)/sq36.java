@@ -2,7 +2,7 @@
 //https://www.geeksforgeeks.org/find-number-of-triangles-possible/
 import java.util.*;
 
-class GFG {
+class sq36 {
 	static void CountTriangles(int[] A)
 	{
 		int n = A.length;

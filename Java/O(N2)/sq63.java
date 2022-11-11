@@ -20,7 +20,7 @@ class sq63
 	/* Driver program to test above functions */
 	public static void main(String[] args)
 	{
-		LeadersInArray lead = new LeadersInArray();
+		sq63 lead = new sq63();
 		int arr[] = new int[]{16, 17, 4, 3, 5, 2};
 		int n = arr.length;
 		lead.printLeaders(arr, n);

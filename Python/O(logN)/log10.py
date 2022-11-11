@@ -3,7 +3,6 @@
 # rotations in a sorted and
 # rotated array.
 
-#https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
 # Returns count of rotations for
 # an array which is first sorted
 # in ascending order, then rotated
@@ -23,9 +22,8 @@ def countRotations(arr, n):
 		nex = (mid+1)%n
 
 		# Checking if mid is minimum
-		if arr[mid]<arr[prev]\
-		and arr[mid]<=arr[nex]:
-		return mid
+		if arr[mid]<arr[prev] and arr[mid]<=arr[nex]:
+			return mid
 	
 		# if not selecting the unsorted part of array
 		elif arr[mid]<arr[start]: end = mid-1
